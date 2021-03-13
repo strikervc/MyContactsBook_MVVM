@@ -1,0 +1,16 @@
+C:\Users\KlayG\source\repos\MyMobileContactsBook\MyMobileContactsBook\bin\Debug\netstandard2.0\MyMobileContactsBook.deps.json
+C:\Users\KlayG\source\repos\MyMobileContactsBook\MyMobileContactsBook\bin\Debug\netstandard2.0\MyMobileContactsBook.dll
+C:\Users\KlayG\source\repos\MyMobileContactsBook\MyMobileContactsBook\bin\Debug\netstandard2.0\ref\MyMobileContactsBook.dll
+C:\Users\KlayG\source\repos\MyMobileContactsBook\MyMobileContactsBook\bin\Debug\netstandard2.0\MyMobileContactsBook.pdb
+C:\Users\KlayG\source\repos\MyMobileContactsBook\MyMobileContactsBook\obj\Debug\netstandard2.0\MyMobileContactsBook.csprojAssemblyReference.cache
+C:\Users\KlayG\source\repos\MyMobileContactsBook\MyMobileContactsBook\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\KlayG\source\repos\MyMobileContactsBook\MyMobileContactsBook\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\KlayG\source\repos\MyMobileContactsBook\MyMobileContactsBook\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\KlayG\source\repos\MyMobileContactsBook\MyMobileContactsBook\obj\Debug\netstandard2.0\MyMobileContactsBook.AssemblyInfoInputs.cache
+C:\Users\KlayG\source\repos\MyMobileContactsBook\MyMobileContactsBook\obj\Debug\netstandard2.0\MyMobileContactsBook.AssemblyInfo.cs
+C:\Users\KlayG\source\repos\MyMobileContactsBook\MyMobileContactsBook\obj\Debug\netstandard2.0\MyMobileContactsBook.csproj.CoreCompileInputs.cache
+C:\Users\KlayG\source\repos\MyMobileContactsBook\MyMobileContactsBook\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\KlayG\source\repos\MyMobileContactsBook\MyMobileContactsBook\obj\Debug\netstandard2.0\MyMobileContactsBook.dll
+C:\Users\KlayG\source\repos\MyMobileContactsBook\MyMobileContactsBook\obj\Debug\netstandard2.0\ref\MyMobileContactsBook.dll
+C:\Users\KlayG\source\repos\MyMobileContactsBook\MyMobileContactsBook\obj\Debug\netstandard2.0\MyMobileContactsBook.pdb
+C:\Users\KlayG\source\repos\MyMobileContactsBook\MyMobileContactsBook\obj\Debug\netstandard2.0\Views\AddContactPage.xaml.g.cs

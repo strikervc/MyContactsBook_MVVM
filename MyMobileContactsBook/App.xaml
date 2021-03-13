@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyMobileContactsBook.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            <Style x:Key="nameLabelStyle" TargetType="Label">
+                <Setter Property="TextColor" Value="Black"/>
+                <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="FontSize" Value="18"/>
+                <Setter Property="Padding" Value="20"/>
+            </Style>
+
+            <Style x:Key="phoneLabelStyle" TargetType="Label">
+                <Setter Property="TextColor" Value="Gray"/>
+                <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+                <Setter Property="FontSize" Value="18"/>
+                <Setter Property="Margin" Value="20, -15, 0, 0"/>
+            </Style>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
